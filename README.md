@@ -43,6 +43,15 @@ from it. Below about 48px, use the wordmark's lowercase-f monogram.
 | [`screenshots/screenshot-tank.png`](screenshots/screenshot-tank.png) | A player's tank |
 | [`screenshots/screenshot-landing.png`](screenshots/screenshot-landing.png) | The landing page |
 
+### Soundtrack
+
+**[Listen on SoundCloud](https://soundcloud.com/crtkafa/sets/fishies)**
+
+Every track is free to download, use and play, including in videos and streams that earn money.
+Fishies will not file a copyright claim, and the music is not registered with Content ID.
+
+Credit the artist as **CRTkafa** where you can. It is appreciated, not required.
+
 ### Palette
 
 | Name | Hex |
